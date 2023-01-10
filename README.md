@@ -1,1 +1,2 @@
-# AQI-Prediction-Using-Machine-Learning-Techniques
+Air quality index (AQI) is a measure of air quality which describes the level of air pollution. Machine learning algorithms can help in predicting the AQI.
+ For Prediction of AQI, Regression Models have been used i.e. Linear Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression.Firstly I have calculated the index for each pollutant and taken highest sub-index as the AQI.AQI is the dependent variable which we have to predict and sub-indexes as the independent variable.Among all the models random forest gives the highest accuracy i.e. 0.98.
